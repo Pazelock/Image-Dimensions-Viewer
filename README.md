@@ -6,6 +6,7 @@ Image Dimensions Viewer Blender add-on
 
 ### Installation
 1. Download a version from
+   
    https://github.com/Pazelock/Image-Dimensions-Viewer/tree/main/Image_Dimensions_Viewer
 2. Drag n' drop downloaded .zip file into Blender.
 3. Enable the add-on by clicking **OK** in a pop-up.
