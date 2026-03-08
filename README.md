@@ -5,7 +5,8 @@ Image Dimensions Viewer Blender add-on
 **Image Dimensions Viewer** is a simple Blender add-on that displays image dimensions right above the image.
 
 ### Installation
-1. Download a version from https://github.com/Pazelock/Image-Dimensions-Viewer/tree/main/Image_Dimensions_Viewer
+1. Download a version from
+   https://github.com/Pazelock/Image-Dimensions-Viewer/tree/main/Image_Dimensions_Viewer
 2. Drag n' drop downloaded .zip file into Blender.
 3. Enable the add-on by clicking **OK** in a pop-up.
 
